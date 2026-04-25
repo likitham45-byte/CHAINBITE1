@@ -1,0 +1,11 @@
+{
+  "name": "ChainBite",
+<<<<<<< HEAD
+  "description": "A decentralized food ordering platform using blockchain for transparent transactions, real-time tracking, and escrow-based payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+=======
+  "description": "A premium food delivery platform with verified sourcing, loyalty rewards, and real-time order tracking.",
+  "requestFramePermissions": ["geolocation"]
+>>>>>>> 1ba813d9bbd7f8ddd70b7c10c23c0c70e64a64a6
+}
